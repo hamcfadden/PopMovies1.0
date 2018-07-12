@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="error_main" type="id" />
+    <item name="progress_bar_main" type="id" />
+    <item name="movie_poster_image" type="id" />
+    <item name="tv_error_message" type="id">string</item>
+    <item name="movie_detail_container" type="id" />
+
+</resources>

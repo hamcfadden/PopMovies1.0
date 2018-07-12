@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Popular Movies</string>
+
+    <string name="title_movie_detail">Movie Detail</string>
+
+    <string name="action_sort_popularity">Sort by popularity</string>
+    <string name="action_sort_best_rated">Sort by best rated</string>
+
+    <string name="movie_not_found">Movie not found</string>
+    <string name="movie_poster">Movie poster</string>
+    
+    <string name="error">An error has occurred.</string>
+
+    <string name="invalid_response">Invalid response from server</string>
+    <string name="no_response">Unable to get response from server. Please check your internet connection and try again.</string>
+    <string name="network_error" />
+
+    <string name="content_description">moviePosterImage</string>
+    <string name="appbar_scrolling_view_behavior" />
+    <string name="detail_overview">Overview</string>
+    <string name="detail_vote_average">Average Vote</string>
+    <string name="detail_release_date">Release Date</string>
+    <string name="action_bar_spinner">actionBarSpinner</string>
+    <string name="rating">Rating</string>
+    <string name="original_title">Original Title</string>
+</resources>
